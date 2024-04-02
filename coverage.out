@@ -1,0 +1,12 @@
+mode: set
+camarinb2096/unit-testing-course/internal/config/server/server.go:17.26,21.2 1 1
+camarinb2096/unit-testing-course/internal/config/server/server.go:23.27,25.47 2 1
+camarinb2096/unit-testing-course/internal/config/server/server.go:25.47,32.39 6 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:32.39,33.27 1 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:34.13,35.71 1 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:36.13,37.86 1 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:38.13,39.67 1 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:40.12,41.86 1 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:43.4,43.10 1 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:45.3,45.34 1 0
+camarinb2096/unit-testing-course/internal/config/server/server.go:49.26,52.2 2 0

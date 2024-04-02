@@ -1,0 +1,47 @@
+{
+    "count": 64,
+    "next": "https://pokeapi.co/api/v2/berry?offset=10&limit=10",
+    "previous": null,
+    "results": [
+        {
+            "name": "cheri",
+            "url": "https://pokeapi.co/api/v2/berry/1/"
+        },
+        {
+            "name": "chesto",
+            "url": "https://pokeapi.co/api/v2/berry/2/"
+        },
+        {
+            "name": "pecha",
+            "url": "https://pokeapi.co/api/v2/berry/3/"
+        },
+        {
+            "name": "rawst",
+            "url": "https://pokeapi.co/api/v2/berry/4/"
+        },
+        {
+            "name": "aspear",
+            "url": "https://pokeapi.co/api/v2/berry/5/"
+        },
+        {
+            "name": "leppa",
+            "url": "https://pokeapi.co/api/v2/berry/6/"
+        },
+        {
+            "name": "oran",
+            "url": "https://pokeapi.co/api/v2/berry/7/"
+        },
+        {
+            "name": "persim",
+            "url": "https://pokeapi.co/api/v2/berry/8/"
+        },
+        {
+            "name": "lum",
+            "url": "https://pokeapi.co/api/v2/berry/9/"
+        },
+        {
+            "name": "sitrus",
+            "url": "https://pokeapi.co/api/v2/berry/10/"
+        }
+    ]
+}
