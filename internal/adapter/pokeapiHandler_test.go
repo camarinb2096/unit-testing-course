@@ -66,3 +66,9 @@ func TestGetPokemonListInternalServerError(t *testing.T) {
 	got := GetPokemonList(dto.RequestParams{Id: "berry", Page: 1, Limit: 10})
 	c.Equal(500, got.Status)
 }
+
+func BenchmarkGetPokemon(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		GetPokemonList(dto.RequestParams{Id: "berry", Page: 1, Limit: 10})
+	}
+}
